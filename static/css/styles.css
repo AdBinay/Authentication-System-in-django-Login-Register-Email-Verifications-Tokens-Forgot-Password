@@ -42,9 +42,9 @@ form button{
     cursor: pointer;
     transition: background-color 0.3s ease-in;
 }
-form.error li {
+form .errorlist li{
     list-style-type: none;
-    color: brown;
+    color: rgb(42, 50, 165);
 }
 
 @media screen and (max-width: 600px) {
